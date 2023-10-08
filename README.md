@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alamulord
 - 👀 I’m interested in web designs $ machine learning
 - 🌱 I’m currently learning html $ css, bootstrap $ javascript, python $ php, json, jquery $ react. 
-- 💞️ I’m looking to collaborate on any kind of web development or machine learning.
+- 💞️ I’m looking to collaborate on any kind of web designs $ machine learning.
 - 📫 How to reach me via email $ tellphone:
 - Email: alamulord@gmail.com
 - Tellphone: +234 09017038038
